@@ -1,0 +1,9 @@
+<changelist name="post" date="1601796028081" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/post/shelved.patch" />
+  <option name="DESCRIPTION" value="post" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="../gradle/wrapper/gradle-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/post/gradle-wrapper.jar" />
+  </binary>
+</changelist>
