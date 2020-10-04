@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AdminOTT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_back">OTT PLATFORM</string>
+    <string name="please_login_to_your_account">Please login to your account.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_retrofit_application">OTTPlatform</string>
+    <string name="s_pre_file">com.example.adminott.sh_preference_file</string>
+    <string name="s_pre_login_status">com.example.sh_preference_login_status</string>
+    <string name="s_pre_login_name">sh_preference_name</string>
+    <string name="s_pre_login_email">sh_preference_email</string>
+    <string name="s_pre_login_date">sh_preference_date</string>
+    <string name="by">By</string>
+    <string name="ott">OTT Platform Group</string>
+
+
+</resources>
